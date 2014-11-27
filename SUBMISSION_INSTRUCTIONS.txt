@@ -1,0 +1,5 @@
+For this assignment, you may only make modifications to the files in the 
+"student_code" folder. DO NOT MODIFY FILES ANYWHERE ELSE.
+
+At the end of your assignment zip up and submit the "student_code" folder only! 
+Nothing else.
