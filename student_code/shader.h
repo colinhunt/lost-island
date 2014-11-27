@@ -37,7 +37,7 @@ struct shader
 
 		//*** Step 1: load and compile the vertex and fragment shaders ***//
 
-		cout << "Setting " << vertShaderFileName << " and " << fragShaderFileName << endl;
+		// cout << "Setting " << vertShaderFileName << " and " << fragShaderFileName << endl;
 
 			// create shader handles
 		vertShaderHandle = glCreateShader(GL_VERTEX_SHADER); 
